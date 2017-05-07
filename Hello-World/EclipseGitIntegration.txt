@@ -1,0 +1,7 @@
+Steps to create and link git repository in Eclipse Neon.3
+
+1. Create a java project in eclipse "Hello-World".
+2. Right Click on Project -> Team -> Share Projet -> Create (provide local path for local Git repository creation F:\Eclipse_WorkSpace\Git_local_Repo).
+3. Go to GitHub.com, login and create a new repository "Hello-World".
+4. Back to eclipse workspace, Right Click on Project -> Team -> Commit -> Index all Unsaged changes -> "Commit and Push"
+5. There you go..
